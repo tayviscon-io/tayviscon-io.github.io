@@ -3,13 +3,13 @@ author: tyomych-tovkach
 title: "Разработка надежных и масштабируемых систем онлайн-исполнения кода"
 date: 2025-02-08 11:30:00 +0300
 categories: [Статьи, Геймификация]
-tags: [черновик]
+tags: []
 description: Статья посвящена разработке масштабируемых систем онлайн-исполнения кода,
   их дизайну, проблемам и применению в программировании, образовании и рекрутинге.
 media_subpath: /assets/articles/gamification/robust-and-scalable-online-code-execution-system/
 ---
 
-> Перевод и адаптация статьи [Оригинал статьи "Robust and Scalable Online Code Execution System"](https://github.com/tayviscon-io/tayviscon-io.github.io/blob/main/assets/articles/gamification/robust-and-scalable-online-code-execution-system/robust-and-scalable-online-code-execution-system-original.pdf).
+> Перевод и адаптация статьи ["Robust and Scalable Online Code Execution System"](https://github.com/tayviscon-io/tayviscon-io.github.io/blob/main/assets/articles/gamification/robust-and-scalable-online-code-execution-system/robust-and-scalable-online-code-execution-system-original.pdf).
 {: .prompt-tip }
 
 _В этой статье мы рассмотрим основные концепции разработки надежных и масштабируемых систем онлайн-исполнения кода,
