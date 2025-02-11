@@ -1,4 +1,4 @@
-``---
+---
 author: tyomych-tovkach
 title: "Apache Kafka"
 date: 2025-02-11 20:00:00 +0300
