@@ -7,6 +7,9 @@ tags: [Apache Kafka]
 description: Курс посвящен изучению основ работы с Apache Kafka с целью
   пониманию принципов работы с платформой для передачи и обработки событий в реальном времени.
 media_subpath: /assets/courses/development/apache-kafka
+image:
+  path: apache-kafka-logo.svg
+  alt: "Apache Kafka: Логотип курса"
 ---
 
 _В рамках данного курса, мы постараемся изучить все аспекты Apache Kafka, чтобы
