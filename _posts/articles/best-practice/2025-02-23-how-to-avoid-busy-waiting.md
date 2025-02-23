@@ -1,6 +1,6 @@
 ---
 author: tyomych-tovkach
-title: "Как избежать проблемы busy waiting?"
+title: "Busy waiting: как избежать проблему?"
 date: 2025-02-23 20:00:00 +0300
 categories: [Статьи, "Лучшие практики"]
 tags: []
